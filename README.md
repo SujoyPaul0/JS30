@@ -7,8 +7,8 @@ Press the keys on your keyboard (A–L) to play different drum sounds, or click 
 ---
 
 ## 🎮 Demo
-![Drum Kit Demo](https://user-images.githubusercontent.com/your-gif-or-screenshot.gif)  
-*(Replace with your own screenshot or GIF)*
+![Recording 2025-09-06 124619](https://github.com/user-attachments/assets/23f8a757-5483-47c3-b695-0a46a098e5cb)
+
 
 ---
 
@@ -27,4 +27,4 @@ Press the keys on your keyboard (A–L) to play different drum sounds, or click 
 - **Vanilla JavaScript**
 
 ---
-<img width="1913" height="973" alt="image" src="https://github.com/user-attachments/assets/29320a62-62e2-4025-9d65-81e38640d094" />
+
