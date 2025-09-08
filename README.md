@@ -39,6 +39,7 @@ It dynamically updates every second using JavaScript and displays the current ti
 ---
 
 ## 🎮 Demo
+---
 ![clock](https://github.com/user-attachments/assets/2f191c2c-9153-4408-b19a-5ed88893a9b9)
 
 
