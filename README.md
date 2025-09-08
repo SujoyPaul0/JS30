@@ -60,8 +60,10 @@ A simple interactive project that demonstrates how to update CSS variables dynam
 It allows users to control image spacing, blur effect, and base color in real time with sliders and a color picker.
 
 🎮 **Demo**
+---
 ![CSS variables](https://github.com/user-attachments/assets/52058367-8d9d-4663-b854-463fa6b70722)
 
+---
 
 🚀 **Features**
 
