@@ -51,6 +51,32 @@ It dynamically updates every second using JavaScript and displays the current ti
 - Minimal and modern aesthetic.
 
 ---
+# Project 3:
+
+⏱️ **Dynamic CSS Variables Controller**
+A simple interactive project that demonstrates how to update CSS variables dynamically using JavaScript.
+It allows users to control image spacing, blur effect, and base color in real time with sliders and a color picker.
+
+🎮 **Demo**
+![CSS variables](https://github.com/user-attachments/assets/52058367-8d9d-4663-b854-463fa6b70722)
+
+
+🚀 **Features**
+
+* Real-time update of image **spacing**, **blur**, and **base color**.
+* Interactive sliders for spacing and blur adjustments.
+* Color picker to change the base color instantly.
+* Uses CSS Variables for clean and scalable style management.
+* Minimalistic and responsive design.
+* Lightweight – built using vanilla JavaScript, no frameworks.
+
+🛠️ **Tech Stack**
+
+* HTML5
+* CSS3 (using CSS Variables for styling)
+* Vanilla JavaScript (for real-time updates and DOM manipulation)
+
+---
 
 ## 🛠️ Tech Stack
 - **HTML5**
