@@ -19,13 +19,26 @@
     <input id="base" type="color" name="base" value="#ffc600">
   </div>
 
-  <img src="https://source.unsplash.com/7bwQXzbF6KE/800x500">
+  <img src="https://t4.ftcdn.net/jpg/00/96/48/45/240_F_96484587_7lWZQz2UQKWLfiT0CMOyCnQ7OcwSmDzj.jpg">
 
   <style>
-
+    :root {
+      --base: #ffc600;
+      --spacing: 10px;
+      --blur: 10px;
+    }
     /*
       misc styles, nothing to do with CSS variables
     */
+    img {
+      padding: var(--spacing);
+      background: var(--base);
+      filter: blur(var(--blur));
+    }
+
+    .h1 {
+      color: var(--base);
+    }
 
     body {
       text-align: center;
